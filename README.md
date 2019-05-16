@@ -45,6 +45,37 @@ Provides a mock JSON-RPC API with Service Discovery for a given OpenRPC document
 https://github.com/open-rpc/mock-server
 
 
+### `meta-schema`
+
+JSON Schema representation of the OpenRPC Specification.
+
+https://github.com/open-rpc/meta-schema
+
+
+### `server-js`
+
+JSON-RPC 2.0 Server implementation that supports multiple transport protocols.
+
+https://github.com/open-rpc/server-js
+
+### `client-js`
+
+A browser-compatible JSON-RPC client with multiple transports.
+
+https://github.com/open-rpc/client-js
+
+### `typings`
+
+CLI and Javascript/Typescript methods for generating types for your OpenRPC API.
+
+https://github.com/open-rpc/typings
+
+### `schema-utils-js`
+
+Javascript utils for OpenRPC.
+
+https://github.com/open-rpc/schema-utils-js
+
 ### Share your OpenRPC implmentations
 
 The OpenRPC developer community is looking for feedback and collaborative development around it's projects. We'd love to hear what you're working on or what you're excited about. Chat with us on Discord!
