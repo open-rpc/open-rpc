@@ -81,3 +81,7 @@ https://github.com/open-rpc/schema-utils-js
 The OpenRPC developer community is looking for feedback and collaborative development around it's projects. We'd love to hear what you're working on or what you're excited about. Chat with us on Discord!
 
 <img src="https://img.shields.io/badge/chat-on%20discord-informational.svg?link=https://discord.gg/Tf55C7d&amp;style=plastic">
+
+### Resources
+
+- [EDCON 2019 Talk](https://youtu.be/UgSPMZ9FQ4Q?t=379)
