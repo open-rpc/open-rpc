@@ -12,6 +12,7 @@ lang: en-US
 
   1. [Get started instantly in the playground](#_1-Get-started-instantly-in-the-playground)
   2. [Use the existing tools with your Document](#_2-use-the-existing-tools-with-your-document)
+  3. [OpenRPC in the wild](#_3-openrpc-in-the-wild)
 
 </div>
 
@@ -27,3 +28,9 @@ You can follow the guides [here](/developers/) and use the OpenRPC tools to crea
 - Mock Servers
 - Language Typings
 
+## 3. OpenRPC in the wild
+
+- [etclabscore/ethereum-json-rpc-specification](https://github.com/etclabscore/ethereum-json-rpc-specification)
+- [ethernodeio/EnOS-Playground](https://github.com/ethernodeio/EnOS-Playground)
+- [etclabscore/jade-signer-rpc](https://github.com/etclabscore/jade-signer-rpc)
+- [multi-geth/multi-geth](https://github.com/multi-geth/multi-geth#openrpc-discovery)

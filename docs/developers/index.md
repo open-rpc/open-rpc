@@ -11,13 +11,11 @@ sidebarDepth: 0
 
 ## Getting started
 
-**If you’re new to developing with OpenRPC, you’re in the right place.** These guides written by the OpenRPC community will introduce you to the basics of OpenRPC and introduce core concepts that might be different from other API development you’re familiar with.
+**If you’re new to developing with OpenRPC, you’re in the right place.** These projects and repositories are written by the OpenRPC community will introduce you to the basics of OpenRPC and introduce core concepts that might be different from other API development you’re familiar with.
 
 Need a more basic non-technical primer first? Check out [open-rpc.org/learn.](/learn/)
 
-## Resources
-
-### Specification
+## Specification
 
 The specification for OpenRPC. A programming language and transport agnostic interface description for JSON-RPC 2.0 APIs.
 
@@ -25,7 +23,7 @@ The specification for OpenRPC. A programming language and transport agnostic int
 
 [https://github.com/open-rpc/spec](https://github.com/open-rpc/spec)
 
-### `playground`
+## Playground
 
 The OpenRPC playground a web IDE for developers to write their open-api based documents.
 
@@ -33,59 +31,53 @@ The OpenRPC playground a web IDE for developers to write their open-api based do
 
 [https://github.com/open-rpc/playground](https://github.com/open-rpc/playground)
 
-### `examples`
+## Examples
 
 This resource provides example open-rpc documents. Put one through the generator-client or playground!
 
 [https://github.com/open-rpc/examples](https://github.com/open-rpc/examples)
 
-### `generator-client`
+## Client Generator
 
-The generator client is a tool to build clients by simply passing an open-rpc document.
+The client generator is a tool to build clients by simply passing an open-rpc document.
 
 [https://github.com/open-rpc/generator-client](https://github.com/open-rpc/generator-client)
 
-### `mock-server`
+## Mock Server
 
 Provides a mock JSON-RPC API with Service Discovery for a given OpenRPC document.
 
 [https://github.com/open-rpc/mock-server](https://github.com/open-rpc/mock-server)
 
 
-### `meta-schema`
+## Meta Schema
 
 JSON Schema representation of the OpenRPC Specification.
 
 [https://github.com/open-rpc/meta-schema](https://github.com/open-rpc/meta-schema)
 
 
-### `server-js`
+## Server Js
 
 JSON-RPC 2.0 Server implementation that supports multiple transport protocols.
 
 [https://github.com/open-rpc/server-js](https://github.com/open-rpc/server-js)
 
-### `client-js`
+## Client Js
 
 A browser-compatible JSON-RPC client with multiple transports.
 
 [https://github.com/open-rpc/client-js](https://github.com/open-rpc/client-js)
 
-### `typings`
+## Typings
 
 CLI and Javascript/Typescript methods for generating types for your OpenRPC API.
 
 [https://github.com/open-rpc/typings](https://github.com/open-rpc/typings)
 
-### `schema-utils-js`
+## Schema Utils Js
 
 Javascript utils for OpenRPC.
 
 [https://github.com/open-rpc/schema-utils-js](https://github.com/open-rpc/schema-utils-js)
 
-
-## OpenRPC in the wild
-- [etclabscore/ethereum-json-rpc-specification](https://github.com/etclabscore/ethereum-json-rpc-specification)
-- [ethernodeio/EnOS-Playground](https://github.com/ethernodeio/EnOS-Playground)
-- [etclabscore/jade-signer-rpc](https://github.com/etclabscore/jade-signer-rpc)
-- [multi-geth/multi-geth](https://github.com/multi-geth/multi-geth)
