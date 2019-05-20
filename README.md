@@ -1,31 +1,29 @@
 <h1 align="center" style="margin-top: 1em; margin-bottom: 3em;">
-  <p><a href="https://ethereum.org"><img alt="ethereum logo" src="./eth.png" alt="ethereum.org" width="125"></a></p>
-  <p>👋 Welcome to ethereum.org!</p>
+  <p><a href="https://open-rpc.org"><img alt="open-rpc logo" src="./open-rpc-logo.png" alt="open-rpc.org" width="125"></a></p>
+  <p>👋 Welcome to open-rpc.org!</p>
 </h1>
 
-[Ethereum.org](https://ethereum.org) is a primary online resource for the Ethereum community. It is improved and changed over time through the contributions of community members who submit content, give feedback, or volunteer their time to managing its evolution.
+[open-rpc.org](https://open-rpc.org) is a primary online resource for the OpenRPC community. It is improved and changed over time through the contributions of community members who submit content, give feedback, or volunteer their time to managing its evolution.
 
-If you’re interested in helping to improve [ethereum.org](https://ethereum.org), start here. This contribution guide will help you get started.
+If you’re interested in helping to improve [open-rpc.org](https://open-rpc.org), start here. This contribution guide will help you get started.
 
 <br>
 
-### Ethereum.org’s design and content is guided by three core principles:
+### open-rpc.org’s design and content is guided by three core principles:
 
 
-**🌏 1. Ethereum.org is a portal to resources created by the community**
-  - It will never be “encyclopedia ethereum” - we can’t add every link, or cover every topic
+**🌏 1. open-rpc.org is a portal to resources created by the community**
+  - It will never be “encyclopedia open-rpc” - we can’t add every link, or cover every topic
   - Rather, its purpose is to direct people to community-built resources
-  - Ethereum.org will always have minimal native-content
+  - open-rpc.org will always have minimal native-content
 
-**🛠 2. Ethereum.org is a work in progress, because Ethereum is a work in progress**
-  - The site has been re-launched explicitly in an unfinished state
+**🛠 2. open-rpc.org is a work in progress, because OpenRPC is a work in progress**
   - We expect it to change over time, including both content and design
   - To accommodate long-term changes, the site has a simple modular structure that will let us add or remove subpages
 
-**🦄 3. Ethereum.org is not a typical product website**
-  - Ethereum.org is a representation of our decentralized community, and a starting point for those who want to join it
-  - Ethereum.org should not be a traditional product website like every other blockchain. There is no sales pitch.
-
+**🧙 3. open-rpc.org is not a typical product website**
+  - OpenRPC.org is a representation of our OpenRPC community, and a starting point for those who want to join it, use it, and contribute to it.
+  - open-rpc.org should not be a traditional product website. There is no sales pitch.
 
 ## How can I contribute?
 
@@ -34,9 +32,8 @@ Keeping in mind the above core principles, there are many ways you can get invol
 
 - Check out the issues page and see if there are any you can help with!
 - Submit links to add to specific sections that are incomplete, by submitting a pull-request
-- Identify out-of-date information on ethereum.org (or linked to from ethereum.org) and submit a pull-request
-- Submit new designs for the front-page HERO image - find the specs [here](https://github.com/ethereum/ethereum-org-website/blob/master/ethereum.org-hero-image-specs.pdf) and contact us at website@ethereum.org
-- Suggest ideas for new subpages, new content, or other ways to improve ethereum.org by opening an issue.
+- Identify out-of-date information on open-rpc.org (or linked to from open-rpc.org) and submit a pull-request
+- Suggest ideas for new subpages, new content, or other ways to improve open-rpc.org by opening an issue.
 
 
 ## Notes on individual sub-pages:
@@ -45,31 +42,22 @@ If you want to suggest changes to particular sub-pages, keep in mind the purpose
 
 ### 🛠 Developers
 
-- The purpose of this page is to collect core technical resources helpful to someone building on Ethereum
+- The purpose of this page is to collect core technical resources helpful to someone building on OpenRPC
 - Information should be kept as up to date as possible, as new tools appear, standards are adopted, or material is deprecated
 - This page will never be completely comprehensive: the goal is to list the most popular or widely used resources or tools.
 
 ### 📚 Learn
 
-- The purpose of this page is to collect educational material about Ethereum on a variety of topics
+- The purpose of this page is to collect educational material about OpenRPC on a variety of topics
 - Some information will be technical in nature, but it will also include non-technical information, or articles that may serve as inspiration to community members
 
 ### 📱 Use
 
-- This page is for the person who wants to get started using Ethereum, but doesn’t know how.
-- This page will stay limited to 3 sections: Dapps, Ether, and Wallets.
-- Useful contributions include: submitting suggestions for dapps to rotate onto this page, submitting suggestions for better links about Ether or Wallets.
-- We will rotate the list of dapps on this page frequently!
-- Dapp submissions will be assessed on the following criteria:
-  - Is the dapp a "user" application? This page is targeted at the average user, which means it wouldn't be appropriate to list a dev tool or app targeted at sophisticated technical users.
-  - Does the application have a good user on-boarding proces, such that a user can follow the link, and find all the instructions they need to get started?
-  - Does the application "round out" the list by adding a new kind of application not already present?
-  - Is there evidence that the application is popular and well established?
-
+- This page is for the person who wants to get started using OpenRPC, but doesn’t know how.
 
 ### 👋 Beginners
 
-- The purpose of this page is to offer a coherent answer to the most basic questions about Ethereum: what is it, and why does it exist?
+- The purpose of this page is to offer a coherent answer to the most basic questions about OpenRPC: what is it, and why does it exist?
 - Because this page is very simple and does not contain much content, changes to the text will be limited.
 - Useful contributions include: suggesting better “beginner” content to link at the bottom of the page, or suggesting images that could be added to the page to break up the text.
 
@@ -85,12 +73,14 @@ yarn
 vuepress dev docs
 ```
 
+open http://localhost:8080
+
 ### Windows
 - Download [node.js & npm](https://nodejs.org/en/download/)
 - Download [Yarn](https://yarnpkg.com/en/docs/install#windows-stable)
 - Download [Git Bash](https://git-scm.com/downloads)
 - Download the `master` branch
-- Navigate to the `/ethereum-org-website` folder
+- Navigate to the `/open-rpc-org-website` folder
 - Right click and select `Git Bash Here`
 
 Run the following commands:
@@ -118,3 +108,7 @@ The build should be exported to `/docs/.vuepress/dist` which can be deployed to 
 
 ## Structure
 Site content is in `/docs` folder. Everything else in `/docs/.vuepress`
+
+---
+
+This repo was originally forked from https://github.com/ethereum/ethereum-org-website.

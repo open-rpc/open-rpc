@@ -1,14 +1,13 @@
 {
-  "name": "ethereum-dot-org-website",
+  "name": "open-rpc-dot-org-website",
   "version": "0.0.1",
-  "description": "Ethereum.org website",
+  "description": "open-rpc.org website",
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
     "docs:build": "vuepress build docs"
   },
-  "author": "Alan Woo (Bin Studio) <alan@bin.am>",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "devDependencies": {
     "vuepress": "^1.0.0-alpha.47"
   }

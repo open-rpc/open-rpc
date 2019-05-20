@@ -3,7 +3,7 @@ title: Home
 date: April 18, 2019
 sidebar: false
 ---
-<div class="center">Ethereum is a global, open-source platform for decentralized applications. On Ethereum, you can write code that controls digital value, runs exactly as programmed, and is accessible anywhere in the world.</div>
+<div class="center">The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs.</div>
 
 <div class="intro-blocks">
 
@@ -11,8 +11,8 @@ sidebar: false
 
   <ul>
     <li><span class="arrow">→</span>Beginners</li>
-    <li class="highlight">Completely new to Ethereum?</li>
-    <li>What is Ethereum?</li>
+    <li class="highlight">Completely new to OpenRPC?</li>
+    <li>What is OpenRPC?</li>
     <li>Why should I care?</li>
   </ul>
 
@@ -22,9 +22,7 @@ sidebar: false
 
   <ul>
     <li><span class="arrow">→</span>Use</li>
-    <li>What can I do with Ethereum today?</li>
-    <li>How do I get Ether?</li>
-    <li>What’s a wallet?</li>
+    <li>What can I do with OpenRPC today?</li>
   </ul>
 
   </router-link>
@@ -33,9 +31,8 @@ sidebar: false
 
   <ul>
     <li><span class="arrow">→</span>Learn</li>
-    <li>Non-technical & beginner resources</li>
-    <li>How Ethereum works</li>
-    <li>ETH 2.0</li>
+    <li>Beginner resources</li>
+    <li>How OpenRPC works</li>
   </ul>
 
   </router-link>
@@ -45,7 +42,6 @@ sidebar: false
   <ul>
     <li><span class="arrow">→</span>Developers</li>
     <li>Getting started guides</li>
-    <li>Learn to program smart contracts</li>
     <li>Find the latest developer tools</li>
   </ul>
 

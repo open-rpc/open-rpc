@@ -10,12 +10,12 @@ npm run docs:build
 cd docs/.vuepress/dist
 
 # if you are deploying to a custom domain
-echo 'www.ethereum.org' > CNAME
+echo 'open-rpc.org' > CNAME
 
 git init
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:ethereum/ethereum-org-website.git master:gh-pages
+git push -f git@github.com:open-rpc/open-rpc.git master:gh-pages
 
 cd -

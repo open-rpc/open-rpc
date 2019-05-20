@@ -5,59 +5,36 @@ lang: en-US
 
 # 👋 Welcome!
 
-New to Ethereum? You’re in the right place. Let’s start with the big picture.
+New to OpenRPC? You’re in the right place. Let’s start with the big picture.
 
-**Ethereum is the foundation for a new era of the internet:**
-- An internet where money and payments are built in.
-- An internet where users can own their data, and your apps don’t spy and steal from you.
-- An internet where everyone has access to an open financial system.
-- An internet built on neutral, open-access infrastructure, controlled by no company or person.
+**OpenRPC is an interface description for JSON-RPC**. It is both human and machine-readable.
 
-**Launched in 2015, Ethereum is the world’s leading programmable blockchain.**
+Use cases for machine-readable JSON-RPC API definition documents include, but are not limited to:
 
-**Like other blockchains, Ethereum has a native cryptocurrency called Ether (ETH).** ETH is digital money. If you’ve heard of [Bitcoin](http://bitcoin.org/), ETH has many of the same features. It is purely digital, and can be sent to anyone anywhere in the world instantly. The supply of ETH isn’t controlled by any government or company - it is decentralized, and it is scarce. People all over the world use ETH to make payments, as a store of value, or as collateral.
+- specification driven development
+- interactive documentation
+- code generation 
+  - documentation
+  - clients
+  - servers
+- automation of test cases
 
-**But unlike other blockchains, Ethereum can do much more.** Ethereum is programmable, which means that developers can use it to [build new kinds of applications](/use/#1-use-an-application-built-on-ethereum).
+OpenRPC documents describe a JSON-RPC APIs services and are represented in JSON format. These documents may either be produced and served statically or be generated dynamically from an application.
 
-These decentralized applications (or “dapps”) gain the benefits of cryptocurrency and blockchain technology. They can be trustworthy, meaning that once they are “uploaded” to Ethereum, they will always run as programmed. They can control digital assets in order to create new kinds of financial applications. They can be decentralized, meaning that no single entity or person controls them.
+The OpenRPC Specification does not require rewriting existing JSON-RPC APIs. It does not require binding any software to a service — the service being described may not even be owned by the creator of its description. It does, however, require the capabilities of the service be described in the structure of the OpenRPC Specification. Not all services can be described by OpenRPC — this specification is not intended to cover REST APIs - It is exclusively for APIs which adhere to the JSON-RPC 2.0 spec. The OpenRPC Specification does not mandate a specific development process such as design-first or code-first. It does facilitate either technique by establishing clear interactions with a JSON-RPC API.
 
-**Right now, thousands of developers all over the world are building applications on Ethereum, and inventing new kinds of applications, many of which you can use today:**
-
-
-- [**Cryptocurrency wallets**](/use/#_3-what-is-a-wallet-and-which-one-should-i-use) that let you make cheap, instant payments with ETH or other assets
-- **Financial applications** that let you borrow, lend, or invest your digital assets
-- **Decentralized markets**, that let you trade digital assets, or even trade “predictions” about events in the real world
-- **Games** where you own in-game assets, and can even make real money
-- **And much,** much more.
-
-**The Ethereum community is the largest and most active blockchain community in the world.** It includes core protocol developers, cryptoeconomic researchers, cypherpunks, mining organizations, ETH holders, app developers, ordinary users, anarchists, fortune 500 companies, and, as of now, **you**.
-
-**There is no company or centralized organization that controls Ethereum.** Ethereum is maintained and improved over time by a diverse global community of contributors who work on everything from the core protocol to consumer applications. This website, just like the rest of Ethereum, was built - and continues to be built - by a collection of people working together.
-
-**Welcome to Ethereum.**
+**Right now, thousands of developers all over the world are building applications on Blockchchains that use JSON-RPC, and inventing new kinds of applications, many of which can benefit from OpenRPC today:**
 
 
+**Welcome to OpenRPC.**
 
 **Not sure where to go next?**
 
-- Want to get started using Ethereum? [ethereum.org/use](/use/)
-- Curious to learn more about Ethereum and its technology? [ethereum.org/learn](/learn/)
-- Are you a developer interested in building on ethereum? [ethereum.org/developers](/developers/)
+- Want to get started using OpenRPC? [open-rpc.org/use](/use/)
+- Curious to learn more about OpenRPC and its technology? [openr-pc.org/learn](/learn/)
+- Are you a developer interested in building on OpenRPC? [open-rpc.org/developers](/developers/)
 
+**Looking for more beginner resources about OpenRPC?**
 
-**Looking for more beginner resources about Ethereum?**
-
-[Decentralized Everything with Vitalik Buterin](https://youtu.be/WSN5BaCzsbo)
-<div class="iframe-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/WSN5BaCzsbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-[Ben Horowitz explains the road ahead for blockchain](https://www.youtube.com/watch?v=l9jvKWKmRfs&feature=youtu.be)
-<div class="iframe-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/l9jvKWKmRfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-[Ethereum’s Blockchain by TechCrunch](https://www.youtube.com/watch?v=WfULutvxvzY)
-<div class="iframe-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/WfULutvxvzY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[OpenRPC and ETC Tooling](https://youtu.be/UgSPMZ9FQ4Q?t=379)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UgSPMZ9FQ4Q?start=379" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
