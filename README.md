@@ -22,7 +22,7 @@ If you’re interested in helping to improve [open-rpc.org](https://open-rpc.org
   - To accommodate long-term changes, the site has a simple modular structure that will let us add or remove subpages
 
 **🧙 3. open-rpc.org is not a typical product website**
-  - OpenRPC.org is a representation of our OpenRPC community, and a starting point for those who want to join it, use it, and contribute to it.
+  - open-rpc.org is a representation of our OpenRPC community, and a starting point for those who want to join it, use it, and contribute to it.
   - open-rpc.org should not be a traditional product website. There is no sales pitch.
 
 ## How can I contribute?
