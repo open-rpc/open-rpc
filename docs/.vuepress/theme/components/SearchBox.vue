@@ -7,6 +7,8 @@
       :class="{ 'focused': focused }"
       autocomplete="off"
       spellcheck="false"
+      @keydown.ctrl.n="onDown"
+      @keydown.ctrl.p="onUp"
       @focus="focused = true"
       @blur="focused = false"
       @keyup.enter="go(focusIndex)"

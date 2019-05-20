@@ -1,6 +1,6 @@
 ---
 title: Home
-date: April 18, 2019
+date: May 20, 2019
 sidebar: false
 ---
 <div class="center">The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs.</div>
