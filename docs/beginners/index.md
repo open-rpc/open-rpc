@@ -23,8 +23,7 @@ OpenRPC documents describe a JSON-RPC APIs services and are represented in JSON 
 
 The OpenRPC Specification does not require rewriting existing JSON-RPC APIs. It does not require binding any software to a service — the service being described may not even be owned by the creator of its description. It does, however, require the capabilities of the service be described in the structure of the OpenRPC Specification. Not all services can be described by OpenRPC — this specification is not intended to cover REST APIs - It is exclusively for APIs which adhere to the JSON-RPC 2.0 spec. The OpenRPC Specification does not mandate a specific development process such as design-first or code-first. It does facilitate either technique by establishing clear interactions with a JSON-RPC API.
 
-**Right now, thousands of developers all over the world are building applications on Blockchchains that use JSON-RPC, and inventing new kinds of applications, many of which can benefit from OpenRPC today:**
-
+**Right now, thousands of developers all over the world are building protocols that use JSON-RPC, and inventing new kinds of applications, many of which can benefit from OpenRPC today:**
 
 **Welcome to OpenRPC.**
 
