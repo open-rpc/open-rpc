@@ -10,7 +10,7 @@ lang: en-US
 
   **Want to get started using OpenRPC?** This page will give you the basic information you need.
 
-  1. [Get started instantly in the playground](#_1-get-started instantly-in-the-playground)
+  1. [Get started instantly in the playground](#_1-Get-started-instantly-in-the-playground)
   2. [Use the existing tools with your Document](#_2-use-the-existing-tools-with-your-document)
 
 </div>

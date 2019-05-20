@@ -42,6 +42,9 @@ export default {
     color $subduedColor
     margin-right 1em
 
+.nav-ul > li:nth-child(1) > a
+  color $textColor !important
+
 .nav-links
   display inline-block
   vertical-align top
