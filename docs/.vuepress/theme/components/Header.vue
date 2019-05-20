@@ -6,7 +6,7 @@
     </div>
 
     <div class="menu inline flex flex-center">
-      <a href="https://github.com/open-rpc/openr-rpc" target="_blank" title="Fork This Page (Github)" class="sm-hide md-hide"><button>Fork This Page</button></a>
+      <a href="https://github.com/open-rpc/open-rpc" target="_blank" title="Fork This Page (Github)" class="sm-hide md-hide"><button>Fork This Page</button></a>
       <SearchBox v-if="$site.themeConfig.search !== false"/>
       <a href="https://github.com/open-rpc/open-rpc" target="_blank" title="Fork This Page (Github)" class="md-up-hide">
         <img alt="Github" class="hide-dark" src="../images/icon-github.svg" />
