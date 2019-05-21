@@ -29,7 +29,7 @@ OpenRPC documents describe a JSON-RPC APIs services and are represented in JSON 
 
 - Read the specification. [spec.open-rpc.org](http://spec.open-rpc.org#introduction)
 - Want to get started using OpenRPC? [open-rpc.org/use](/use/)
-- Curious to learn more about OpenRPC and its technology? [openr-pc.org/learn](/learn/)
+- Curious to learn more about OpenRPC and its technology? [open-rpc.org/learn](/learn/)
 - Are you a developer interested in building on OpenRPC? [open-rpc.org/developers](/developers/)
 
 **Looking for more beginner resources about OpenRPC?**
