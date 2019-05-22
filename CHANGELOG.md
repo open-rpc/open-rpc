@@ -1,3 +1,13 @@
+## [1.0.1](https://github.com/open-rpc/open-rpc/compare/1.0.0...1.0.1) (2019-05-22)
+
+
+### Bug Fixes
+
+* i had it all wrong ([c298bf1](https://github.com/open-rpc/open-rpc/commit/c298bf1))
+* indenting ([defccb8](https://github.com/open-rpc/open-rpc/commit/defccb8))
+* remove whitespace ([14ec330](https://github.com/open-rpc/open-rpc/commit/14ec330))
+* s3 deploy fixup ([6c6123b](https://github.com/open-rpc/open-rpc/commit/6c6123b))
+
 # 1.0.0 (2019-05-22)
 
 
