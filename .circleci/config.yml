@@ -68,7 +68,7 @@ jobs:
           command: aws s3 sync /tmp/open-rpc/docs/.vuepress/dist/ s3://open-rpc.org/ --delete
       - run:
           name: invalidate cloudfront
-          command: aws cloudfront create-invalidation --distribution-id E2NA7MTUVFBUIM
+          command: aws cloudfront create-invalidation --distribution-id E2NA7MTUVFBUIM --paths index.html */index.html
 
 workflows:
   version: 2
