@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/open-rpc/open-rpc/compare/1.0.4...1.0.5) (2019-05-22)
+
+
+### Bug Fixes
+
+* last try before I give up ([8cef3c3](https://github.com/open-rpc/open-rpc/commit/8cef3c3))
+
 ## [1.0.4](https://github.com/open-rpc/open-rpc/compare/1.0.3...1.0.4) (2019-05-22)
 
 
