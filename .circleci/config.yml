@@ -68,8 +68,6 @@ workflows:
   version: 2
   analysis:
     jobs:
-      - test:
-          filters: *filter-only-semantic-pr
       - build:
           filters: *filter-only-semantic-pr
 
@@ -86,3 +84,7 @@ workflows:
           filters: *filter-only-master
           requires:
             - hold
+      - release-web:
+          filters: *filter-only-master
+          requires:
+            - release
