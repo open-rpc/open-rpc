@@ -1,3 +1,11 @@
+## [1.0.3](https://github.com/open-rpc/open-rpc/compare/1.0.2...1.0.3) (2019-05-22)
+
+
+### Bug Fixes
+
+* cloudfront invalidation broken ([1022b9b](https://github.com/open-rpc/open-rpc/commit/1022b9b))
+* dont forget the root index ([a3c423c](https://github.com/open-rpc/open-rpc/commit/a3c423c))
+
 ## [1.0.2](https://github.com/open-rpc/open-rpc/compare/1.0.1...1.0.2) (2019-05-22)
 
 
