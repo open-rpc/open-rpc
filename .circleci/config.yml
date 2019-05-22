@@ -38,9 +38,9 @@ jobs:
       - run: npm run build
       - save_cache: *save-deps-cache
       - persist_to_workspace:
-        root: workspace
-        paths:
-          - build-output
+          root: workspace
+          paths:
+            - build-output
 
   release:
     <<: *defaults
