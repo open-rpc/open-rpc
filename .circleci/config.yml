@@ -54,12 +54,16 @@ jobs:
     docker:
       - image: circleci/python:2.7-jessie
     steps:
+      - checkout
       - run:
           name: Install awscli
           command: sudo pip install awscli
       - run:
           name: Deploy to S3
           command: aws s3 sync docs/.vuepress/dist/ s3://open-rpc.org/ --delete
+      - run:
+          name: ls them thangs
+          command: ls docs/.vuepress/dist
       - run:
           name: invalidate cloudfront
           command: aws cloudfront create-invalidation --distribution-id E2NA7MTUVFBUIM
