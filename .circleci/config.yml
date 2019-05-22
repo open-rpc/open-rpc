@@ -37,6 +37,10 @@ jobs:
       - run: npm install
       - run: npm run build
       - save_cache: *save-deps-cache
+      - persist_to_workspace:
+          root: ./
+          paths:
+            - docs
 
   release:
     <<: *defaults
@@ -54,16 +58,17 @@ jobs:
     docker:
       - image: circleci/python:2.7-jessie
     steps:
-      - checkout
+      - attach_workspace:
+          at: /tmp/open-rpc/
       - run:
           name: Install awscli
           command: sudo pip install awscli
       - run:
-          name: Deploy to S3
-          command: aws s3 sync docs/.vuepress/dist/ s3://open-rpc.org/ --delete
+          name: ls
+          command: ls /tmp/workspace/build-output
       - run:
-          name: ls them thangs
-          command: ls docs/.vuepress/dist
+          name: Deploy to S3
+          command: aws s3 sync /tmp/open-rpc/docs/.vuepress/dist/ s3://open-rpc.org/ --delete
       - run:
           name: invalidate cloudfront
           command: aws cloudfront create-invalidation --distribution-id E2NA7MTUVFBUIM
