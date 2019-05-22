@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/open-rpc/open-rpc/compare/1.0.5...1.0.6) (2019-05-22)
+
+
+### Bug Fixes
+
+* leading slash is required ([c14aa22](https://github.com/open-rpc/open-rpc/commit/c14aa22))
+
 ## [1.0.5](https://github.com/open-rpc/open-rpc/compare/1.0.4...1.0.5) (2019-05-22)
 
 
