@@ -43,20 +43,24 @@ jobs:
     docker:
       - image: circleci/node:10
     steps:
+      - run: npx semantic-release
+
+  release-web:
+    <<: *defaults
+    docker:
+      - image: circleci/python:2.7-jessie
+    steps:
       - run:
           name: Install awscli
           command: sudo pip install awscli
       - run:
           name: Deploy to S3
           command: aws s3 sync docs/.vuepress/dist/ s3://open-rpc.org/ --delete
-      - run: npx semantic-release
 
 workflows:
   version: 2
   analysis:
     jobs:
-      - test:
-          filters: *filter-only-semantic-pr
       - build:
           filters: *filter-only-semantic-pr
 
@@ -73,3 +77,7 @@ workflows:
           filters: *filter-only-master
           requires:
             - hold
+      - release-web:
+          filters: *filter-only-master
+          requires:
+            - release
