@@ -11,7 +11,6 @@ If you’re interested in helping to improve [open-rpc.org](https://open-rpc.org
 
 ### open-rpc.org’s design and content is guided by three core principles:
 
-
 **🌏 1. open-rpc.org is a portal to resources created by the community**
   - It will never be “encyclopedia open-rpc” - we can’t add every link, or cover every topic
   - Rather, its purpose is to direct people to community-built resources
@@ -28,7 +27,6 @@ If you’re interested in helping to improve [open-rpc.org](https://open-rpc.org
 ## How can I contribute?
 
 Keeping in mind the above core principles, there are many ways you can get involved in improving the website!
-
 
 - Check out the issues page and see if there are any you can help with!
 - Submit links to add to specific sections that are incomplete, by submitting a pull-request
