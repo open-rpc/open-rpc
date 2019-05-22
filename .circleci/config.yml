@@ -64,9 +64,6 @@ jobs:
           name: Install awscli
           command: sudo pip install awscli
       - run:
-          name: ls
-          command: ls /tmp/workspace/build-output
-      - run:
           name: Deploy to S3
           command: aws s3 sync /tmp/open-rpc/docs/.vuepress/dist/ s3://open-rpc.org/ --delete
       - run:
