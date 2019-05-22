@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/open-rpc/open-rpc/compare/1.0.3...1.0.4) (2019-05-22)
+
+
+### Bug Fixes
+
+* path incorrect ([bf8b344](https://github.com/open-rpc/open-rpc/commit/bf8b344))
+
 ## [1.0.3](https://github.com/open-rpc/open-rpc/compare/1.0.2...1.0.3) (2019-05-22)
 
 
