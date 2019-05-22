@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/open-rpc/open-rpc/compare/1.0.1...1.0.2) (2019-05-22)
+
+
+### Bug Fixes
+
+* nubbing it up ([e11f59b](https://github.com/open-rpc/open-rpc/commit/e11f59b))
+
 ## [1.0.1](https://github.com/open-rpc/open-rpc/compare/1.0.0...1.0.1) (2019-05-22)
 
 
