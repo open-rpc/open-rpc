@@ -1,14 +1,19 @@
 {
-  "name": "open-rpc-dot-org-website",
-  "version": "0.0.1",
+  "name": "@open-rpc/open-rpc",
+  "version": "0.0.0-semantic-release-dev",
   "description": "open-rpc.org website",
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
-    "docs:build": "vuepress build docs"
+    "build": "vuepress build docs"
   },
   "license": "Apache-2.0",
   "devDependencies": {
+    "@semantic-release/changelog": "^3.0.2",
+    "@semantic-release/commit-analyzer": "^6.1.0",
+    "@semantic-release/git": "^7.0.8",
+    "@semantic-release/github": "^5.2.10",
+    "@semantic-release/release-notes-generator": "^7.1.4",
+    "semantic-release": "^15.13.12",
     "vuepress": "^1.0.0-alpha.47"
   }
 }
