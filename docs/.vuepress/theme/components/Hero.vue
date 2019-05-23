@@ -30,8 +30,9 @@
   @require '../styles/config'
 
   .hero-image
-    width 946px
-    height 500px
+    width 70vw
+    padding-bottom 30vh
+    max-width 60vw
     margin 0 auto
   .hero
     padding 2em
@@ -92,7 +93,9 @@
         right 3.5em
 
   @media screen and (max-width $breakS)
-    .hero
-      max-width 90vw
+    .hero-image
+      padding-top: 10vh;
+      margin-bottom: -25vh;
+      max-width 50vw
 
 </style>
