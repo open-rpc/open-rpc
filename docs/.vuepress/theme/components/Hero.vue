@@ -31,7 +31,7 @@
 
   .hero-image
     width 70vw
-    padding-bottom 30vh
+    padding-bottom 25vh
     max-width 60vw
     margin 0 auto
   .hero
