@@ -1,3 +1,11 @@
+## [1.0.8](https://github.com/open-rpc/open-rpc/compare/1.0.7...1.0.8) (2019-05-23)
+
+
+### Bug Fixes
+
+* logo layout issues ([ba5005b](https://github.com/open-rpc/open-rpc/commit/ba5005b))
+* **hero:** less padding ([182499e](https://github.com/open-rpc/open-rpc/commit/182499e))
+
 ## [1.0.7](https://github.com/open-rpc/open-rpc/compare/1.0.6...1.0.7) (2019-05-23)
 
 
