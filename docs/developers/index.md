@@ -81,3 +81,10 @@ Javascript utils for OpenRPC.
 
 [https://github.com/open-rpc/schema-utils-js](https://github.com/open-rpc/schema-utils-js)
 
+## Vscode extension
+Auto-complete, validate and preview OpenRPC Documents in vscode.
+
+[https://marketplace.visualstudio.com/items?itemName=OPEN-RPC.OPEN-RPC](https://marketplace.visualstudio.com/items?itemName=OPEN-RPC.OPEN-RPC)
+
+[https://github.com/open-rpc/editor-extensions-vscode](https://github.com/open-rpc/editor-extensions-vscode)
+
