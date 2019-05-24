@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/open-rpc/open-rpc/compare/1.0.8...1.1.0) (2019-05-24)
+
+
+### Features
+
+* add discord widget ([60a6605](https://github.com/open-rpc/open-rpc/commit/60a6605))
+
 ## [1.0.8](https://github.com/open-rpc/open-rpc/compare/1.0.7...1.0.8) (2019-05-23)
 
 
