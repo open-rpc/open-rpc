@@ -1,7 +1,10 @@
 <template>
   <footer class="footer">
     <ul>
+      <li><a href="https://spec.open-rpc.org" target="_blank">Specfication</a></li>
+      <li><a href="https://playground.open-rpc.org" target="_blank">Playground</a></li>
       <li><a href="https://github.com/open-rpc" target="_blank">GitHub</a></li>
+      <li><a href="https://discord.gg/rsQ4esV" target="_blank">Discord</a></li>
     </ul>
   </footer>
 </template>
