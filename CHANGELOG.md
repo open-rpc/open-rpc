@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/open-rpc/open-rpc/compare/1.1.0...1.1.1) (2019-05-27)
+
+
+### Bug Fixes
+
+* add directory links to spec + playground + discord ([e23fd6f](https://github.com/open-rpc/open-rpc/commit/e23fd6f)), closes [#23](https://github.com/open-rpc/open-rpc/issues/23)
+
 # [1.1.0](https://github.com/open-rpc/open-rpc/compare/1.0.8...1.1.0) (2019-05-24)
 
 
