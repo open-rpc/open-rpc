@@ -67,7 +67,7 @@ If you want to suggest changes to particular sub-pages, keep in mind the purpose
 - Download [node.js & npm](https://nodejs.org/en/download/)
 - Download [Git Bash](https://git-scm.com/downloads)
 - Download the `master` branch
-- Navigate to the `/open-rpc-org-website` folder
+- Navigate to the `open-rpc` folder
 - Right click and select `Git Bash Here`
 
 ### Unix/Mac
