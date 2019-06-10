@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/open-rpc/open-rpc/compare/1.1.1...1.1.2) (2019-06-10)
+
+
+### Bug Fixes
+
+* **README:** windows instructions ([9e9fd95](https://github.com/open-rpc/open-rpc/commit/9e9fd95))
+
 ## [1.1.1](https://github.com/open-rpc/open-rpc/compare/1.1.0...1.1.1) (2019-05-27)
 
 
