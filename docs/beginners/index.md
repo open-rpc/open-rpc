@@ -1,5 +1,5 @@
 ---
-title: Beginners
+title: OpenRPC for beginners
 lang: en-US
 ---
 
