@@ -1,5 +1,5 @@
 ---
-title: Learn
+title: Learn about OpenRPC | Advanced links and articles on OpenRPC
 lang: en-US
 sidebar: auto
 sidebarDepth: 0
