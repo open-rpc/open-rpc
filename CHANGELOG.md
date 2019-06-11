@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/open-rpc/open-rpc/compare/1.1.2...1.2.0) (2019-06-11)
+
+
+### Features
+
+* added link to article in Learn page ([6005030](https://github.com/open-rpc/open-rpc/commit/6005030))
+
 ## [1.1.2](https://github.com/open-rpc/open-rpc/compare/1.1.1...1.1.2) (2019-06-10)
 
 
