@@ -1,5 +1,5 @@
 ---
-title: Developers
+title: OpenRPC Development | Developer guides, resources, and tools for building on OpenRPC
 lang: en-US
 sidebar: auto
 sidebarDepth: 0
