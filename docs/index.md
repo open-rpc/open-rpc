@@ -1,5 +1,5 @@
 ---
-title: OpenRPC | A standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs
+title: "open-rpc.org | OpenRPC is a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs"
 date: May 20, 2019
 sidebar: false
 ---
