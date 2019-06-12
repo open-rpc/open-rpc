@@ -1,3 +1,12 @@
+## [1.2.1](https://github.com/open-rpc/open-rpc/compare/1.2.0...1.2.1) (2019-06-12)
+
+
+### Bug Fixes
+
+* **beginners:** update title ([9078675](https://github.com/open-rpc/open-rpc/commit/9078675))
+* **home:** title ([f52eca5](https://github.com/open-rpc/open-rpc/commit/f52eca5))
+* **learn:** title ([5262356](https://github.com/open-rpc/open-rpc/commit/5262356))
+
 # [1.2.0](https://github.com/open-rpc/open-rpc/compare/1.1.2...1.2.0) (2019-06-11)
 
 
