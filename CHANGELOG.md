@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/open-rpc/open-rpc/compare/1.2.1...1.2.2) (2019-06-13)
+
+
+### Bug Fixes
+
+* show hero ([8d7de84](https://github.com/open-rpc/open-rpc/commit/8d7de84))
+
 ## [1.2.1](https://github.com/open-rpc/open-rpc/compare/1.2.0...1.2.1) (2019-06-12)
 
 
