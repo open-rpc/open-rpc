@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/open-rpc/open-rpc/compare/1.2.2...1.3.0) (2019-06-14)
+
+
+### Features
+
+* new font ([9ccb433](https://github.com/open-rpc/open-rpc/commit/9ccb433))
+
 ## [1.2.2](https://github.com/open-rpc/open-rpc/compare/1.2.1...1.2.2) (2019-06-13)
 
 
