@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/open-rpc/open-rpc/compare/1.3.0...1.3.1) (2019-07-04)
+
+
+### Bug Fixes
+
+* **circleci:** cache invalidation ([088d6ae](https://github.com/open-rpc/open-rpc/commit/088d6ae)), closes [#26](https://github.com/open-rpc/open-rpc/issues/26)
+
 # [1.3.0](https://github.com/open-rpc/open-rpc/compare/1.2.2...1.3.0) (2019-06-14)
 
 
