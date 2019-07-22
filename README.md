@@ -36,6 +36,8 @@ Keeping in mind the above core principles, there are many ways you can get invol
 
 ## Notes on individual sub-pages:
 
+![image](https://user-images.githubusercontent.com/364566/61649685-ce579a00-ac66-11e9-8bde-b1e8d5c123c6.png)
+
 If you want to suggest changes to particular sub-pages, keep in mind the purpose of each page:
 
 ### 🛠 Developers
