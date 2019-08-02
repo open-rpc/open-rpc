@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/open-rpc/open-rpc/compare/1.3.1...1.3.2) (2019-08-02)
+
+
+### Bug Fixes
+
+* npm audit fix ([e722383](https://github.com/open-rpc/open-rpc/commit/e722383))
+
 ## [1.3.1](https://github.com/open-rpc/open-rpc/compare/1.3.0...1.3.1) (2019-07-04)
 
 
