@@ -1,3 +1,11 @@
+## [1.3.3](https://github.com/open-rpc/open-rpc/compare/1.3.2...1.3.3) (2019-08-30)
+
+
+### Bug Fixes
+
+* add sitemap to show existing pages ([71db449](https://github.com/open-rpc/open-rpc/commit/71db449))
+* **learn:** add useful github issue links ([e5d4004](https://github.com/open-rpc/open-rpc/commit/e5d4004))
+
 ## [1.3.2](https://github.com/open-rpc/open-rpc/compare/1.3.1...1.3.2) (2019-08-02)
 
 
