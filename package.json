@@ -14,6 +14,6 @@
     "@semantic-release/github": "^5.2.10",
     "@semantic-release/release-notes-generator": "^7.1.4",
     "semantic-release": "^15.13.19",
-    "vuepress": "^1.0.0-alpha.47"
+    "vuepress": "^1.1.0"
   }
 }
