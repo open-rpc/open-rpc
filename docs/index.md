@@ -25,6 +25,16 @@ sidebar: false
     <li>What can I do with OpenRPC today?</li>
   </ul>
 
+
+  </router-link>
+
+  <router-link to="/field-guide/" class="intro-block">
+
+  <ul>
+    <li><span class="arrow">→</span>Field Guide</li>
+    <li>A getting started guide and resource</li>
+  </ul>
+
   </router-link>
 
   <router-link to="/learn/" class="intro-block">
