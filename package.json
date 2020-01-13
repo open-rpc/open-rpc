@@ -3,6 +3,7 @@
   "version": "0.0.0-semantic-release-dev",
   "description": "open-rpc.org website",
   "scripts": {
+    "start": "npm run dev",
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
   },
