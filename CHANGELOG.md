@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/open-rpc/open-rpc/compare/1.3.3...1.4.0) (2020-01-13)
+
+
+### Features
+
+* add field guide ([2cdc44e](https://github.com/open-rpc/open-rpc/commit/2cdc44e))
+
 ## [1.3.3](https://github.com/open-rpc/open-rpc/compare/1.3.2...1.3.3) (2019-08-30)
 
 
