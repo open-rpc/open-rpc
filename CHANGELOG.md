@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/open-rpc/open-rpc/compare/1.5.0...1.5.1) (2020-01-22)
+
+
+### Bug Fixes
+
+* add gatsbyjs to readme ([0543ffb](https://github.com/open-rpc/open-rpc/commit/0543ffb3a4febb4378df037421bb0ce0095f7c7c))
+
 # 1.0.0 (2020-01-22)
 
 
