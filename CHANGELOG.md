@@ -1,3 +1,10 @@
+## [1.5.2](https://github.com/open-rpc/open-rpc/compare/1.5.1...1.5.2) (2020-01-22)
+
+
+### Bug Fixes
+
+* add primary and secondary color configs ([ea3a17b](https://github.com/open-rpc/open-rpc/commit/ea3a17be7ea7caa0b0f88e6adef1ec6cd17a3821))
+
 ## [1.5.1](https://github.com/open-rpc/open-rpc/compare/1.5.0...1.5.1) (2020-01-22)
 
 
