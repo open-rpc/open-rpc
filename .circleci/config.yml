@@ -57,15 +57,18 @@ jobs:
     steps:
       - checkout
       - run:
+          name: Apt Update
+          command: |
+            sudo apt-get update
+      - run:
           name: Install Rust
           command: |
-            curl https://sh.rustup.rs -sSf | bash -s -- -y
+            curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- --no-modify-path --default-toolchain none -y;
             echo 'source $HOME/.cargo/env' >> $HOME/.bashrc
             source $HOME/.cargo/env
       - run:
           name: Install Headless Chrome dependencies
           command: |
-            sudo apt-get update
             sudo apt-get install -yq \
             gconf-service libasound2 libatk1.0-0 libatk-bridge2.0-0 libc6 libcairo2 libcups2 libdbus-1-3 \
             libexpat1 libfontconfig1 libgcc1 libgconf-2-4 libgdk-pixbuf2.0-0 libglib2.0-0 libgtk-3-0 libnspr4 \
@@ -79,9 +82,17 @@ jobs:
             curl https://www.npmjs.com/install.sh | sudo bash
       - restore_cache: *restore-deps-cache
       - run: sudo apt-get install -y graphviz
-      - run: cargo install svgbob_cli
+      - run:
+          name: Cargo install svgbob
+          command:
+            export PATH=~/.cargo/bin:$PATH
+            cargo install svgbob_cli
       - run: npm install
-      - run: npm run build
+      - run:
+          name: NPM Build
+          command:
+            export PATH=~/.cargo/bin:$PATH
+            npm run build
       - run: npm install semantic-release@16 @semantic-release/changelog @semantic-release/git @semantic-release/github @semantic-release/npm @semantic-release/commit-analyzer @semantic-release/release-notes-generator @qiwi/semantic-release-gh-pages-plugin
       - run: git checkout .
       - run: ./node_modules/.bin/semantic-release
