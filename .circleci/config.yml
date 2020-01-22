@@ -74,7 +74,7 @@ jobs:
             libexpat1 libfontconfig1 libgcc1 libgconf-2-4 libgdk-pixbuf2.0-0 libglib2.0-0 libgtk-3-0 libnspr4 \
             libpango-1.0-0 libpangocairo-1.0-0 libstdc++6 libx11-6 libx11-xcb1 libxcb1 libxcomposite1 libxcursor1 \
             libxdamage1 libxext6 libxfixes3 libxi6 libxrandr2 libxrender1 libxss1 libxtst6 ca-certificates \
-            fonts-liberation libappindicator1 libnss3 lsb-release xdg-utils wget
+            fonts-liberation libappindicator1 libnss3 lsb-release xdg-utils wget git
       - run:
           name: "Update Node.js and npm"
           command: |
@@ -85,13 +85,13 @@ jobs:
       - run:
           name: Cargo install svgbob
           command:
-            export PATH=~/.cargo/bin:$PATH
+            export PATH=~/.cargo/bin:$PATH;
             cargo install svgbob_cli
       - run: npm install
       - run:
           name: NPM Build
           command:
-            export PATH=~/.cargo/bin:$PATH
+            export PATH=~/.cargo/bin:$PATH;
             npm run build
       - run: npm install semantic-release@16 @semantic-release/changelog @semantic-release/git @semantic-release/github @semantic-release/npm @semantic-release/commit-analyzer @semantic-release/release-notes-generator @qiwi/semantic-release-gh-pages-plugin
       - run: git checkout .
