@@ -53,13 +53,14 @@ jobs:
   release:
     <<: *defaults
     docker:
-      - image: circleci/python:2.7-jessie
+      - image: circleci/python:2.7-stretch
     steps:
       - checkout
       - run:
           name: Apt Update
           command: |
             sudo apt-get update
+            sudo apt-get install software-properties-common
       - run:
           name: Install Rust
           command: |
