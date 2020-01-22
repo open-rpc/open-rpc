@@ -1,9 +1,8 @@
-import React, { useState } from "react";
-import useDarkMode from "use-dark-mode";
+import React from "react";
 import { Grid, Typography, Box } from "@material-ui/core";
 import { Link as GatsbyLink } from "gatsby";
 import Link from "@material-ui/core/Link";
-import { yellow, grey } from "@material-ui/core/colors";
+import { grey } from "@material-ui/core/colors";
 
 const MyApp: React.FC = () => {
 

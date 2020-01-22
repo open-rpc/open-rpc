@@ -57,12 +57,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `pristine-site`,
-        short_name: `pristine-site`,
+        name: `OpenRPC Website`,
+        short_name: `openrpc-site`,
         start_url: `/`,
         background_color: `transparent`,
         theme_color: `transparent`,
         display: `minimal-ui`,
+        icon: `src/images/openrpc.png`
       },
     }
   ],
