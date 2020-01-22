@@ -1,3 +1,20 @@
+# 1.0.0 (2020-01-22)
+
+
+### Bug Fixes
+
+* add openrpc image ([48ac566](https://github.com/open-rpc/open-rpc/commit/48ac5660aa7342904c34bf0e5f35d88c7d46c5b9))
+* **circle:** rust cargo install ([7d16f65](https://github.com/open-rpc/open-rpc/commit/7d16f6587a19bb1f72a19544366019b234f9f9f7))
+* hide search from mobile - update from gatsby theme ([51ad604](https://github.com/open-rpc/open-rpc/commit/51ad604136964dfedd1e7d8ee7eaeb266c59d982))
+* Initial Commit ([b3bd45a](https://github.com/open-rpc/open-rpc/commit/b3bd45a25119076d51657b32c4c4cba5d21ef849))
+* update gatsby-theme-pristine ([35bb3e6](https://github.com/open-rpc/open-rpc/commit/35bb3e65cf8a08f3f707b1e5ca6e9d9437ddb0fe))
+* **circle:** add apt-get update ([16f4ea9](https://github.com/open-rpc/open-rpc/commit/16f4ea92964fc7b10ddefcc7dff3a517fae3f4c9))
+* **circle:** bump ubuntu version ([e0efcd0](https://github.com/open-rpc/open-rpc/commit/e0efcd0ad1f79b5f80ecdcb7e0263a6fc2cc13af))
+* **circle:** cargo ([2761f2f](https://github.com/open-rpc/open-rpc/commit/2761f2ff54aae46214ceea54b9a6f29224b75de0))
+* **circle:** cargo install modify path ([ef85cf6](https://github.com/open-rpc/open-rpc/commit/ef85cf6f9cdfe913786f67f6b7e72129bc3ee523))
+* **circle:** rust cargo install ([6b5e97a](https://github.com/open-rpc/open-rpc/commit/6b5e97ac7c57de3cc7beb0627a68f7e4d16019a6))
+* **package.json:** repo url ([0c91b95](https://github.com/open-rpc/open-rpc/commit/0c91b95c2ffe52a0bc1707fcd18fd1db15c99013))
+
 ## [1.1.2](https://github.com/etclabscore/pristine-typescript-gatsby-react-material-ui/compare/1.1.1...1.1.2) (2020-01-18)
 
 
