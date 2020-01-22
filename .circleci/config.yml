@@ -61,6 +61,7 @@ jobs:
           command: |
             curl https://sh.rustup.rs -sSf | bash -s -- -y
             echo 'source $HOME/.cargo/env' >> $HOME/.bashrc
+            source $HOME/.cargo/env
       - run:
           name: Install Headless Chrome dependencies
           command: |
