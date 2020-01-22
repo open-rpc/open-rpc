@@ -66,9 +66,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/etclabscore/pristine-typescript-gatsby-react-material-ui"
+    "url": "https://github.com/open-rpc/open-rpc"
   },
   "bugs": {
-    "url": "https://github.com/etclabscore/pristine-typescript-gatsby-react-material-ui/issues"
+    "url": "https://github.com/open-rpc/open-rpc/issues"
   }
 }
