@@ -1,3 +1,10 @@
+## [1.5.3](https://github.com/open-rpc/open-rpc/compare/1.5.2...1.5.3) (2020-01-26)
+
+
+### Bug Fixes
+
+* site metadata ([af4a11b](https://github.com/open-rpc/open-rpc/commit/af4a11bbd2e598b871ecc915fde316280136729a))
+
 ## [1.5.2](https://github.com/open-rpc/open-rpc/compare/1.5.1...1.5.2) (2020-01-22)
 
 
