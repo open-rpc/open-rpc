@@ -3,7 +3,7 @@ const emoji = require("remark-emoji");
 module.exports = {
   siteMetadata: {
     title: `OpenRPC`,
-    description: ``,
+    description: `The OpenRPC Specification defines a standard, programming language-agnostic interface description for JSON-RPC 2.0< APIs.`,
     logoUrl: `https://raw.githubusercontent.com/open-rpc/design/master/icons/open-rpc-logo-noText/open-rpc-logo-noText%20(PNG)/256x256.png`,
     author: ``,
     primaryColor: `#3f51b5`, //material-ui primary color
@@ -62,7 +62,7 @@ module.exports = {
         name: `OpenRPC Website`,
         short_name: `openrpc-site`,
         start_url: `/`,
-        background_color: `transparent`,
+        background_color: `#ffffff`,
         theme_color: `#3f51b5`,
         display: `minimal-ui`,
         icon: `src/images/openrpc.png`
