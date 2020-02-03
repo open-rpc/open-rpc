@@ -1,3 +1,10 @@
+## [1.5.4](https://github.com/open-rpc/open-rpc/compare/1.5.3...1.5.4) (2020-02-03)
+
+
+### Bug Fixes
+
+* add twitter to footer ([48f79fb](https://github.com/open-rpc/open-rpc/commit/48f79fb157ccaddc200294daff4d68b48f1dc483))
+
 ## [1.5.3](https://github.com/open-rpc/open-rpc/compare/1.5.2...1.5.3) (2020-01-26)
 
 
