@@ -1,3 +1,11 @@
+## [1.5.5](https://github.com/open-rpc/open-rpc/compare/1.5.4...1.5.5) (2020-02-03)
+
+
+### Bug Fixes
+
+* curate content + fix menulinks ordering ([9fc4224](https://github.com/open-rpc/open-rpc/commit/9fc42246744d9b195a3668fff51fdf4da87f78ac))
+* getting started guide ([b7d4529](https://github.com/open-rpc/open-rpc/commit/b7d4529af6521f3dc716830a7f00550140dbfee4))
+
 ## [1.5.4](https://github.com/open-rpc/open-rpc/compare/1.5.3...1.5.4) (2020-02-03)
 
 
