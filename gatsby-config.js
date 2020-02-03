@@ -15,6 +15,10 @@ module.exports = {
         ignoreNextPrev: true
       },
       {
+        name: 'Getting Started',
+        link: '/getting-started'
+      },
+      {
         name: 'Beginners',
         link: '/beginners'
       },
@@ -29,10 +33,6 @@ module.exports = {
       {
         name: 'Developers',
         link: '/developers'
-      },
-      {
-        name: 'Field Guide',
-        link: '/field-guide'
       }
     ],
     footerLinks: [

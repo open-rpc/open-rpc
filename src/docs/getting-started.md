@@ -46,23 +46,7 @@ It uses the JSON data-interchange format. JSON is easy for humans to read and wr
 
 ## Describing APIs
 
-### What is OpenRPC?
-[OpenRPC](https://open-rpc.org) is a standard, programming language-agnostic way to describe JSON-RPC 2.0 APIs.  Similar to what interface descriptions have done for lower-level programming, the OpenRPC Specification removes guesswork in calling a service.
-
-### When to use OpenRPC
-Use cases for machine-readable JSON-RPC API definition documents include, but are not limited to:
-
-- interactive documentation
-- code generation for documentation
-- clients
-- servers
-- automation of test cases
-
-These documents may either be produced and served statically or be generated dynamically from an application.
-
 ### Documentation Driven
-
-The OpenRPC Specification does not require rewriting existing JSON-RPC APIs. It does not require binding any software to a service — the service being described may not even be owned by the creator of its description. It does, however, require the capabilities of the service be described in the structure of the OpenRPC Specification.
 
 The OpenRPC Specification does not mandate a specific development process such as design-first or code-first. It does facilitate either technique by establishing clear interactions with a JSON-RPC API.
 
@@ -218,23 +202,6 @@ Here the example JSON-RPC request above is used to provide example data:
   ]
 }
 ```
-
-## OpenRPC Toolbox
-
-After creating an OpenRPC Document, the following tools can be used to improve your new or existing JSON-RPC API by generating code, interactive documentation, clients and typings for various languages and more:
-
-- Playground
-- Inspector
-- Code Generator
-    - API Clients
-    - Server Skeletons
-- Typings
-
-You can find these tools at [https://github.com/open-rpc](https://github.com/open-rpc) or find more information at [https://open-rpc.org/developers/](https://open-rpc.org/developers/).
-
-## Improve your Developer Experience
-
-The OpenRPC created in the previous example has provided a well documented API and clients for users to interact with, and a central document for multiple stakeholders to contribute to. This opens up not only API design but the entire developer experience to a much broader audience.
 
 ## Next Steps
 

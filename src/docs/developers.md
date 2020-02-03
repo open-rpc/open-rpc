@@ -7,9 +7,6 @@ title: OpenRPC Development | Developer guides, resources, and tools for building
 <div class="featured">Guides, resources, and tools for developers building on OpenRPC.</div>
 
 <br />
-<br />
-
-## Getting started
 
 **If you’re new to developing with OpenRPC, you’re in the right place.** These projects and repositories are written by the OpenRPC community will introduce you to the basics of OpenRPC and introduce core concepts that might be different from other API development you’re familiar with.
 
