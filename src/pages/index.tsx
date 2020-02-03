@@ -1,5 +1,5 @@
 import React from "react";
-import { Grid, Typography, Box } from "@material-ui/core";
+import { Grid, Typography, Box, Button } from "@material-ui/core";
 import { Link as GatsbyLink } from "gatsby";
 import Link from "@material-ui/core/Link";
 import { grey } from "@material-ui/core/colors";
@@ -13,6 +13,14 @@ const MyApp: React.FC = () => {
         <Typography gutterBottom style={{ paddingTop: "100px", paddingBottom: "20px" }} variant="inherit">
           The OpenRPC Specification defines a standard, programming language-agnostic interface description for {<Link href="https://www.jsonrpc.org/specification">JSON-RPC 2.0</Link>} APIs.
         </Typography>
+        <Link
+          component={(props: { children: any }) => (
+            <GatsbyLink to={"/getting-started"} style={{ textDecoration: "none", color: grey[500] }} activeStyle={{ color: grey[500] }}>
+              {props.children}
+            </GatsbyLink>
+          )}>
+          <Button variant="contained">Get Started</Button>
+        </Link>
         <br />
         <br />
         <br />

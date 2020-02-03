@@ -21,6 +21,10 @@ Use cases for machine-readable JSON-RPC API definition documents include, but ar
 
 OpenRPC documents describe a JSON-RPC APIs services and are represented in JSON format. These documents may either be produced and served statically or be generated dynamically from an application.
 
+## Improve your Developer Experience
+
+The OpenRPC created in the previous example has provided a well documented API and clients for users to interact with, and a central document for multiple stakeholders to contribute to. This opens up not only API design but the entire developer experience to a much broader audience
+
 **Right now, thousands of developers all over the world are building protocols that use JSON-RPC, and inventing new kinds of applications, many of which can benefit from OpenRPC today:**
 
 **Welcome to OpenRPC.**
