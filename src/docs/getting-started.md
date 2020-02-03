@@ -1,16 +1,9 @@
 ---
-title: OpenRPC Field Guide | A guide through OpenRPC
+title: OpenRPC Getting Started Guide | A guide through OpenRPC
 ---
-# Field Guide
+# Getting Started
 
 A guide through OpenRPC.
-
-## The Manifesto
-
-- Write services documentation first
-- Write services that do one thing, and one thing well
-- Write services that can interface together
-- Write services that handle JSON because that is a universal interface
 
 ## Introduction
 This field guide will help developers on their OpenRPC journey to code automation and tooling. It is meant to be a starting place for new users and a resource for existing users.
