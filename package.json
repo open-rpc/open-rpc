@@ -14,7 +14,7 @@
     "gatsby": "^2.18.25",
     "gatsby-image": "^2.2.34",
     "gatsby-plugin-layout": "^1.1.21",
-    "gatsby-plugin-manifest": "^2.2.31",
+    "gatsby-plugin-manifest": "^2.2.41",
     "gatsby-plugin-material-ui": "^2.1.6",
     "gatsby-plugin-mdx": "^1.0.67",
     "gatsby-plugin-offline": "^3.0.27",
