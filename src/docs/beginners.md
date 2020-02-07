@@ -38,7 +38,4 @@ The OpenRPC created in the previous example has provided a well documented API a
 - Curious to learn more about OpenRPC and its technology? [open-rpc.org/learn](/learn/)
 - Are you a developer interested in building on OpenRPC? [open-rpc.org/developers](/developers/)
 
-**Looking for more beginner resources about OpenRPC?**
 
-[The Future of JSON-RPC Tooling](https://youtu.be/g2zUSyXW6nI?t=59)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g2zUSyXW6nI?start=59" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
