@@ -1,3 +1,10 @@
+## [1.5.6](https://github.com/open-rpc/open-rpc/compare/1.5.5...1.5.6) (2020-02-07)
+
+
+### Bug Fixes
+
+* **beginners:** remove video ([4947232](https://github.com/open-rpc/open-rpc/commit/4947232218c7d706904b157b863108bad849524a))
+
 ## [1.5.5](https://github.com/open-rpc/open-rpc/compare/1.5.4...1.5.5) (2020-02-03)
 
 
