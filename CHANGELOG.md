@@ -1,3 +1,10 @@
+## [1.5.7](https://github.com/open-rpc/open-rpc/compare/1.5.6...1.5.7) (2020-02-10)
+
+
+### Bug Fixes
+
+* broken field guide links ([6d6c5ee](https://github.com/open-rpc/open-rpc/commit/6d6c5ee3c2bd06f797bb3154ab85668f728c0ec4)), closes [#118](https://github.com/open-rpc/open-rpc/issues/118)
+
 ## [1.5.6](https://github.com/open-rpc/open-rpc/compare/1.5.5...1.5.6) (2020-02-07)
 
 
