@@ -37,8 +37,8 @@ module.exports = {
     ],
     footerLinks: [
       {
-        name: 'Field Guide',
-        link: '/field-guide'
+        name: 'Getting Started',
+        link: '/getting-started'
       },
       {
         name: 'Specification',
