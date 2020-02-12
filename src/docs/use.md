@@ -34,3 +34,4 @@ You can follow the guides [here](/developers/) and use the OpenRPC tools to crea
 - [ethernodeio/EnOS-Playground](https://github.com/ethernodeio/EnOS-Playground)
 - [etclabscore/jade-signer-rpc](https://github.com/etclabscore/jade-signer-rpc)
 - [multi-geth/multi-geth](https://github.com/multi-geth/multi-geth#openrpc-discovery)
+- [avto-dev/open-rpc-docs-builder-docker](https://github.com/avto-dev/open-rpc-docs-builder-docker)
