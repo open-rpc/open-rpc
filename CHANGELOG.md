@@ -1,3 +1,10 @@
+## [1.5.8](https://github.com/open-rpc/open-rpc/compare/1.5.7...1.5.8) (2020-03-06)
+
+
+### Bug Fixes
+
+* **footer:** add inspector link ([207c5b6](https://github.com/open-rpc/open-rpc/commit/207c5b63552be4a1b25a7cad109d6c52ba06a7f0))
+
 ## [1.5.7](https://github.com/open-rpc/open-rpc/compare/1.5.6...1.5.7) (2020-02-10)
 
 
