@@ -49,6 +49,10 @@ module.exports = {
         link: 'https://playground.open-rpc.org'
       },
       {
+        name: 'Inspector',
+        link: 'https://inspector.open-rpc.org'
+      },
+      {
         name: 'Twitter',
         link: 'https://twitter.com/open_rpc'
       },
