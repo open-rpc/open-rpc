@@ -57,6 +57,10 @@ module.exports = {
         link: 'https://twitter.com/open_rpc'
       },
       {
+        name: 'Gitter Chat',
+        link: 'https://gitter.im/open-rpc/community'
+      },
+      {
         name: 'Github',
         link: 'https://github.com/open-rpc'
       }
