@@ -1,3 +1,10 @@
+## [1.5.9](https://github.com/open-rpc/open-rpc/compare/1.5.8...1.5.9) (2020-04-17)
+
+
+### Bug Fixes
+
+* **footer:** add gitter chat link ([758fa42](https://github.com/open-rpc/open-rpc/commit/758fa427f9c7ded216c4c7e875f14309fbe0c31f)), closes [#229](https://github.com/open-rpc/open-rpc/issues/229) [#4](https://github.com/open-rpc/open-rpc/issues/4)
+
 ## [1.5.8](https://github.com/open-rpc/open-rpc/compare/1.5.7...1.5.8) (2020-03-06)
 
 
