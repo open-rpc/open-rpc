@@ -5,7 +5,7 @@
   "version": "0.0.0-development",
   "dependencies": {
     "@etclabscore/gatsby-theme-pristine": "^1.1.4",
-    "@material-ui/core": "^4.8.3",
+    "@material-ui/core": "^4.9.11",
     "@material-ui/icons": "^4.5.1",
     "@material-ui/styles": "^4.8.2",
     "@mdx-js/mdx": "^1.5.4",
