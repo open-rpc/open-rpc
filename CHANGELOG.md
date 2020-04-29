@@ -1,3 +1,10 @@
+## [1.5.10](https://github.com/open-rpc/open-rpc/compare/1.5.9...1.5.10) (2020-04-29)
+
+
+### Bug Fixes
+
+* **use:** add docker image openrpc validator ([5176ab1](https://github.com/open-rpc/open-rpc/commit/5176ab194d6fe41cace302f9d5b495c6e3bb98e0))
+
 ## [1.5.9](https://github.com/open-rpc/open-rpc/compare/1.5.8...1.5.9) (2020-04-17)
 
 
