@@ -3,6 +3,7 @@ import { Grid, Typography, Box, Button } from "@material-ui/core";
 import { Link as GatsbyLink } from "gatsby";
 import Link from "@material-ui/core/Link";
 import { grey } from "@material-ui/core/colors";
+import { VideoCall } from "@material-ui/icons";
 
 const MyApp: React.FC = () => {
 
@@ -13,14 +14,24 @@ const MyApp: React.FC = () => {
         <Typography gutterBottom style={{ paddingTop: "100px", paddingBottom: "20px" }} variant="inherit">
           The OpenRPC Specification defines a standard, programming language-agnostic interface description for {<Link href="https://www.jsonrpc.org/specification">JSON-RPC 2.0</Link>} APIs.
         </Typography>
-        <Link
-          component={(props: { children: any }) => (
-            <GatsbyLink to={"/getting-started"} style={{ textDecoration: "none", color: grey[500] }} activeStyle={{ color: grey[500] }}>
-              {props.children}
-            </GatsbyLink>
-          )}>
-          <Button variant="contained">Get Started</Button>
-        </Link>
+        <Grid container justify="center">
+          <Link
+            component={(props: { children: any }) => (
+              <GatsbyLink to={"/webinar"} style={{ textDecoration: "none", color: grey[500], marginRight: "10px" }} activeStyle={{ color: grey[500] }}>
+                {props.children}
+              </GatsbyLink>
+            )}>
+            <Button variant="contained" startIcon={<VideoCall />} color="primary">Watch the Webinar</Button>
+          </Link>
+          <Link
+            component={(props: { children: any }) => (
+              <GatsbyLink to={"/getting-started"} style={{ textDecoration: "none", color: grey[500] }} activeStyle={{ color: grey[500] }}>
+                {props.children}
+              </GatsbyLink>
+            )}>
+            <Button variant="contained">Get Started</Button>
+          </Link>
+        </Grid>
         <br />
         <br />
         <br />
@@ -75,7 +86,7 @@ const MyApp: React.FC = () => {
           <Grid item container direction="column" style={{ width: "230px" }}>
             <Link
               component={(props: { children: any }) => (
-                <GatsbyLink to={"/learn"}
+                <GatsbyLink to={"/developers"}
                   style={{ textDecoration: "none", color: grey[500] }}
                   activeStyle={{ color: grey[500] }}
                 >

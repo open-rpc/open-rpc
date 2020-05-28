@@ -10,6 +10,7 @@ sidebarDepth: 0
 **Welcome to [open-rpc.org/learn](/learn/), a set of resources to help you learn more about OpenRPC.** This page includes technical **and** non-technical articles, guides, and resources. If you’re totally new to OpenRPC, [we suggest you start here](/beginners/).
 
 Here are some excellent starting points:
+- [OpenRPC Webinar](/webinar/) *open-rpc.org*
 - [OpenRPC Getting Started Guide](/getting-started/) *open-rpc.org*
 - [ETC Summit 2019 - Day 1 - Talk 05 - Shane Jonas - The Future of JSON RPC Tooling
 ](https://youtu.be/g2zUSyXW6nI?t=59) *ETC Summit*

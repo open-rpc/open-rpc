@@ -15,6 +15,10 @@ module.exports = {
         ignoreNextPrev: true
       },
       {
+        name: 'Webinar',
+        link: '/webinar'
+      },
+      {
         name: 'Getting Started',
         link: '/getting-started'
       },
