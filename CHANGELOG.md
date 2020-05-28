@@ -1,3 +1,10 @@
+## [1.5.11](https://github.com/open-rpc/open-rpc/compare/1.5.10...1.5.11) (2020-05-28)
+
+
+### Bug Fixes
+
+* add webinar page ([49cc716](https://github.com/open-rpc/open-rpc/commit/49cc7163f1bf09d01aafbf98797eb409d1c7074d))
+
 ## [1.5.10](https://github.com/open-rpc/open-rpc/compare/1.5.9...1.5.10) (2020-04-29)
 
 
