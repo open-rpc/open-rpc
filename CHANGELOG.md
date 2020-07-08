@@ -1,3 +1,10 @@
+## [1.5.12](https://github.com/open-rpc/open-rpc/compare/1.5.11...1.5.12) (2020-07-08)
+
+
+### Bug Fixes
+
+* use discord as chat ([d76c0f1](https://github.com/open-rpc/open-rpc/commit/d76c0f163da2b2e386c244f0ac5a0e275046f202))
+
 ## [1.5.11](https://github.com/open-rpc/open-rpc/compare/1.5.10...1.5.11) (2020-05-28)
 
 
