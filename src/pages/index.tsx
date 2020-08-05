@@ -12,7 +12,7 @@ const MyApp: React.FC = () => {
       <Grid container alignContent="center" alignItems="center" justify="center" direction="column">
         <Grid container alignContent="center" alignItems="center" justify="space-around" direction="row">
           <Grid item alignContent="center" alignItems="center" justify="center" direction="column" style={{width: "400px"}}>
-            <Typography variant="h6" gutterBottom style={{paddingBottom: "20px"}}>Design and document APIs using <b>JSON-RPC 2.0</b> and Open Source tools.</Typography>
+            <Typography variant="h4" gutterBottom style={{paddingBottom: "20px"}}>Design and document APIs using <b>JSON-RPC 2.0</b> and Open Source tools.</Typography>
             <Button href="https://playground.open-rpc.org" color="primary" variant="outlined" style={{textTransform: "none"}}>Explore the Playground</Button>
           </Grid>
           <Grid item>
