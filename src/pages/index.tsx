@@ -10,8 +10,17 @@ const MyApp: React.FC = () => {
   return (
     <>
       <Grid container alignContent="center" alignItems="center" justify="center" direction="column">
-        <img className="logo" alt="logo" src={"https://raw.githubusercontent.com/open-rpc/design/master/icons/open-rpc-logo-noText/open-rpc-logo-noText%20(PNG)/256x256.png"} style={{ paddingTop: "10%" }} />
-        <Typography gutterBottom style={{ paddingTop: "100px", paddingBottom: "20px" }} variant="inherit">
+        <Grid container alignContent="center" alignItems="center" justify="space-around" direction="row">
+          <Grid item alignContent="center" alignItems="center" justify="center" direction="column" style={{width: "400px"}}>
+            <Typography variant="h6" gutterBottom style={{paddingBottom: "20px"}}>Design and document APIs using <b>JSON-RPC 2.0</b> and Open Source tools.</Typography>
+            <Button href="https://playground.open-rpc.org" color="primary" variant="outlined" style={{textTransform: "none"}}>Explore the Playground</Button>
+          </Grid>
+          <Grid item>
+            <img className="logo" alt="logo" src={"https://raw.githubusercontent.com/open-rpc/design/master/icons/open-rpc-logo-noText/open-rpc-logo-noText%20(PNG)/256x256.png"} style={{ paddingTop: "10%" }} />
+          </Grid>
+        </Grid>
+        <Typography variant="h1" style={{ paddingTop: "100px", paddingBottom: "20px" }}>What is OpenRPC?</Typography>
+        <Typography gutterBottom  variant="inherit" style={{paddingBottom: "50px"}}>
           The OpenRPC Specification defines a standard, programming language-agnostic interface description for {<Link href="https://www.jsonrpc.org/specification">JSON-RPC 2.0</Link>} APIs.
         </Typography>
         <Grid container justify="center">
@@ -49,9 +58,6 @@ const MyApp: React.FC = () => {
                 </Box>
                 <Box>
                   <Typography variant="caption" color="secondary">- New to OpenRPC?</Typography>
-                </Box>
-                <Box>
-                  <Typography variant="caption">- What is OpenRPC?</Typography>
                 </Box>
                 <Box>
                   <Typography variant="caption">- Why should I care?</Typography>
