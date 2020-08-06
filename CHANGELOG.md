@@ -1,3 +1,11 @@
+## [1.5.13](https://github.com/open-rpc/open-rpc/compare/1.5.12...1.5.13) (2020-08-06)
+
+
+### Bug Fixes
+
+* add playground button + what is openrpc header ([130bb35](https://github.com/open-rpc/open-rpc/commit/130bb35f7dbaf73ba49d42e106f54950b501d38b))
+* make title text slightly bigger ([5abf36c](https://github.com/open-rpc/open-rpc/commit/5abf36c0206c2e4ae07a7372a867e9788cffaf3a))
+
 ## [1.5.12](https://github.com/open-rpc/open-rpc/compare/1.5.11...1.5.12) (2020-07-08)
 
 
