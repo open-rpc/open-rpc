@@ -36,3 +36,4 @@ You can follow the guides [here](/developers/) and use the OpenRPC tools to crea
 - [multi-geth/multi-geth](https://github.com/multi-geth/multi-geth#openrpc-discovery)
 - [avto-dev/open-rpc-docs-builder-docker](https://github.com/avto-dev/open-rpc-docs-builder-docker)
 - [512k/openrpc-validator-docker](https://github.com/512k/openrpc-validator-docker)
+- [json-rpc-shell](https://git.janouch.name/p/json-rpc-shell)
