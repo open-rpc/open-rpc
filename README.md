@@ -3,16 +3,15 @@
   <p>open-rpc.org</p>
 </h1>
 
-[open-rpc.org](https://open-rpc.org) is a primary online knowledge base for OpenRPC. It will always be a work in progress and improve through contributions from the community.
+This repository contains the open-rpc.org website & tooling to deploy the website.
 
-If you’re interested in helping to improve [open-rpc.org](https://open-rpc.org), start here. This contribution guide will help you get started.
+Need help or have a question? Join us on [Discord](https://discord.gg/gREUKuF)!
 
 ## Goals
 
 1. Knowledge Base for the community.
 2. Purpose-built to introduce new and existing users to OpenRPC.
 3. Great native-content, and minimal curated content.
-
 
 ### Contributing
 
