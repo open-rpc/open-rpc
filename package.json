@@ -10,7 +10,7 @@
     "@material-ui/styles": "^4.8.2",
     "@mdx-js/mdx": "^1.5.4",
     "@mdx-js/react": "^1.5.4",
-    "@open-rpc/docs-react": "^1.1.4",
+    "@open-rpc/docs-react": "^1.2.2",
     "gatsby": "^2.18.25",
     "gatsby-image": "^2.2.34",
     "gatsby-plugin-layout": "^1.1.21",
